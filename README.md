@@ -2,7 +2,7 @@
 
 Online Resmi adalah platform layanan online yang menyediakan berbagai layanan dengan kemudahan akses dan proses yang cepat. Kami berkomitmen untuk memberikan pengalaman pengguna yang terbaik dengan tampilan responsif yang dapat digunakan di berbagai perangkat.
 
-![Online Resmi Logo](https://i.ibb.co/xtxRGT7y/sijago88-12.jpg)
+![Online Resmi Logo](https://i.ibb.co/5WKSxjcV/he1256-1.png)
 
 ---
 
