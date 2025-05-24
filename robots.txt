@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ferdy0303.github.io/OnlineResmi/sitemap.xml
