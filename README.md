@@ -9,6 +9,7 @@ Online Resmi adalah platform layanan online yang menyediakan berbagai layanan de
 ## Fitur
 - **Layanan Cepat dan Mudah**: Proses layanan yang mudah diakses.
 - **Responsif di Semua Perangkat**: Platform yang dapat digunakan baik di desktop maupun perangkat mobile.
+- <meta name="google-site-verification" content="AVpjDlKWbby5LZeQLtK65SPaH008pSLDULOkGzp5mIU" />
 - **Keamanan Terjamin**: Keamanan data pengguna menjadi prioritas utama.
 - **Antarmuka Pengguna yang Bersih**: Desain yang mudah digunakan dengan pengalaman pengguna yang intuitif.
 
