@@ -18,7 +18,7 @@ Online Resmi adalah platform layanan online yang menyediakan berbagai layanan de
 ## Demo
 
 Jika Anda ingin mencoba layanan kami secara langsung, kunjungi:  
-[**Akses Layanan Sijago88**](https://lynk.id/sijago88)
+[**Akses Layanan Sijago88**](https://adskita.link/sijago88)
 
 ---
 
